@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Donators\\Donators\\Donators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\context\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\context\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\context\\donatorsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\context\\donatorsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\dto\\validations\\donatorsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\dto\\validations\\donatorsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\dto\\validations\\messagevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\dto\\validations\\messagevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\dto\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\dto\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\dto\\donatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\dto\\donatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\configurations\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\configurations\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\configurations\\donatorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\configurations\\donatorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\userextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\userextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\resultextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\resultextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\requestedfiltersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\requestedfiltersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\requestedfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\requestedfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\paginateddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\paginateddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\abstractions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\abstractions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|d:\\donators\\donators\\donators\\donators\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2112319-BAE2-4B2D-9028-75710C384AE4}|Donators\\Donators.csproj|solutionrelative:donators\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 47,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Context\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Context\\JwtOptions.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Context\\JwtOptions.cs",
+              "RelativeToolTip": "Donators\\Entites\\Context\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:42:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Donators\\DependencyInjection.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\DependencyInjection.cs",
+              "RelativeToolTip": "Donators\\DependencyInjection.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:39:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\appsettings.json",
+              "RelativeDocumentMoniker": "Donators\\appsettings.json",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\appsettings.json",
+              "RelativeToolTip": "Donators\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T23:37:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonatorsValidation.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Validations\\DonatorsValidation.cs",
+              "RelativeDocumentMoniker": "Donators\\Dto\\Validations\\DonatorsValidation.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Validations\\DonatorsValidation.cs",
+              "RelativeToolTip": "Donators\\Dto\\Validations\\DonatorsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:25:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageValidation.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Validations\\MessageValidation.cs",
+              "RelativeDocumentMoniker": "Donators\\Dto\\Validations\\MessageValidation.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Validations\\MessageValidation.cs",
+              "RelativeToolTip": "Donators\\Dto\\Validations\\MessageValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:24:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Message.cs",
+              "RelativeDocumentMoniker": "Donators\\Dto\\Message.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\Message.cs",
+              "RelativeToolTip": "Donators\\Dto\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:23:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonatorDto.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\DonatorDto.cs",
+              "RelativeDocumentMoniker": "Donators\\Dto\\DonatorDto.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Dto\\DonatorDto.cs",
+              "RelativeToolTip": "Donators\\Dto\\DonatorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:22:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageConfiguration.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\MessageConfiguration.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Configurations\\MessageConfiguration.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\MessageConfiguration.cs",
+              "RelativeToolTip": "Donators\\Entites\\Configurations\\MessageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:20:57.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Program.cs",
+              "RelativeDocumentMoniker": "Donators\\Program.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Program.cs",
+              "RelativeToolTip": "Donators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:35:12.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonatorConfiguration.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\DonatorConfiguration.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Configurations\\DonatorConfiguration.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\DonatorConfiguration.cs",
+              "RelativeToolTip": "Donators\\Entites\\Configurations\\DonatorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:17:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResultExtentions.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\ResultExtentions.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\ResultExtentions.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\ResultExtentions.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\ResultExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:50.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\Result.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Result.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestedFiltersValidator.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\RequestedFiltersValidator.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\RequestedFiltersValidator.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\RequestedFiltersValidator.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\RequestedFiltersValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:36.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonatorsDBContext.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Context\\DonatorsDBContext.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Context\\DonatorsDBContext.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Context\\DonatorsDBContext.cs",
+              "RelativeToolTip": "Donators\\Entites\\Context\\DonatorsDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:36:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserExtentions.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\UserExtentions.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\UserExtentions.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\UserExtentions.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\UserExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:58.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestedFilters.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\RequestedFilters.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\RequestedFilters.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\RequestedFilters.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\RequestedFilters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginatedData.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\PaginatedData.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\PaginatedData.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\PaginatedData.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\PaginatedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Errors.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\Errors.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Errors.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Message.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Message.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Message.cs",
+              "RelativeToolTip": "Donators\\Entites\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:55:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Donators\\Entites\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:13:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Error.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\Error.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\Error.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:08:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Donator.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Donator.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\Donator.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\Donator.cs",
+              "RelativeToolTip": "Donators\\Entites\\Donator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:53:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Donators\\Entites\\ApplicationUser.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Entites\\ApplicationUser.cs",
+              "RelativeToolTip": "Donators\\Entites\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:36:52.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Donators\\Abstractions\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Abstractions\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Donators\\Abstractions\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:09:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Donators\\Authentication\\JwtProvider.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "Donators\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:04:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\Donators\\Donators\\Donators\\Donators\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Donators\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "D:\\Donators\\Donators\\Donators\\Donators\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "Donators\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:03:16.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
