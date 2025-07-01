@@ -22,10 +22,12 @@ public static class Errors
         public static readonly Error EmptyToken =
             new Error("NotFound", "Null Refrence", StatusCodes.Status404NotFound);
     }
-    public class ItemErrors
+    public class MessageErrors
     {
-        public static readonly Error Emptyitem =
-            new Error("Item.NotFound", "No Item with this id", StatusCodes.Status404NotFound);
+        public static readonly Error EmptyMessage =
+            new Error("Message.NotFound", "No Message with this id", StatusCodes.Status404NotFound);
+        public static readonly Error NullMessage =
+            new Error("Message.Null", "Message Should Contain a content", StatusCodes.Status400BadRequest);
     }
     public class CategoryErrors
     {

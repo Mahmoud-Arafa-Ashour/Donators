@@ -1,9 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
+﻿namespace Donators.Entites.Configurations;
 
-namespace Donators.Entites.Configurations;
-
-public class UserConfiguration : IEntityTypeConfiguration<ApplicationUser>
+public class ApplicationUserConfiguration : IEntityTypeConfiguration<ApplicationUser>
 {
     public void Configure(EntityTypeBuilder<ApplicationUser> builder)
     {
@@ -17,5 +14,9 @@ public class UserConfiguration : IEntityTypeConfiguration<ApplicationUser>
         builder.Property(_ => _.CharityName)
             .IsRequired()
             .HasMaxLength(100);
+        builder.OwnsMany(x => x.RefreshTokens)
+                .ToTable("RefreshTokens")
+                .WithOwner()
+                .HasForeignKey("UserId");
     }
 }

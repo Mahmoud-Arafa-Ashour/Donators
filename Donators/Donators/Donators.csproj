@@ -23,8 +23,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Abstractions\" />
+    <Folder Include="Dto\Auth\" />
+    <Folder Include="Dto\Login\" />
+    <Folder Include="Dto\User\" />
   </ItemGroup>
 
 </Project>

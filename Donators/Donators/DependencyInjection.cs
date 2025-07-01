@@ -1,17 +1,4 @@
-﻿using Donators.Entites;
-using Donators.Entites.Context;
-using Donators.Persistant;
-using Mapster;
-using MapsterMapper;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using System.Reflection;
-using System.Text;
-using FluentValidation;
-
-namespace Donators;
+﻿namespace Donators;
 
 public static class DependencyInjection
 {
@@ -26,6 +13,8 @@ public static class DependencyInjection
         services.AddConfigServices();
         services.AddProblemDetails();
         services.AddHttpContextAccessor();
+        services.AddScoped<IAuthServices, AuthServices>();
+        services.AddScoped<IMessageService, MessageService>();
         return services;
     }
     public static IServiceCollection AddMappsterServices(this IServiceCollection services)
@@ -61,7 +50,7 @@ public static class DependencyInjection
                     ValidateIssuer = true,
                     ValidateAudience = true,
                     ValidateLifetime = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("xwTYBtjkzBnMf8ZYyk8Gck4a18gy2bN7")),
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("IC2hPmTyFL9YZossJzDZdRLh9d32nDR3")),
                     ValidIssuer = "Lagnet EL Zakkah",
                     ValidAudience = "Lagnet El Zakkah Donators"
                 };
