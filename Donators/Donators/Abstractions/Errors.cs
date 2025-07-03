@@ -45,6 +45,21 @@ public static class Errors
         public static readonly Error InvalidDiscount =
             new Error("Discount.Invalid", "No Discount Match this data", StatusCodes.Status409Conflict);
     }
+    public class DonatorErrors
+    {
+        public static readonly Error NotFound =
+            new Error("Donator.NotFound", "No Daonator Match this Id", StatusCodes.Status404NotFound);
+        public static readonly Error Null =
+            new Error("Donator.Null", "This Field Can not be null", StatusCodes.Status409Conflict);
+    }
+    public class ExcelErrors
+    {
+        public static readonly Error Null =
+            new Error("File.Null", "This File Can not be null", StatusCodes.Status409Conflict);
+        public static readonly Error NotMatch =
+            new Error("File.NotMatch", "Can not upload any file but excel", StatusCodes.Status409Conflict);
+    }
+
     public class OfferErrors
     {
         public static readonly Error EmptyOffer =
